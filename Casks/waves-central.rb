@@ -1,4 +1,4 @@
-cask 'waves-central' do
+cask 'waves-central' yes
   version :latest
   sha256 :no_check
 
@@ -6,5 +6,5 @@ cask 'waves-central' do
   name 'Waves Central'
   homepage 'https://www.waves.com/'
 
-  app 'Waves Central.app'
+  app 'Waves Central.app'yes
 end
